@@ -41,7 +41,7 @@
     -o-transform:translateY(0) ;
 }
 .card:hover .card-text{
-    opacity: 0.9;
+    opacity: 0.8;
 }
 .card-title::after{
  content: "";
